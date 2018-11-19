@@ -1,0 +1,5 @@
+ext_js_examples:
+    resource: "@ExtJSExamplesBundle/Controller/"
+    type:     annotation
+    prefix:   /admin/extjs-examples
+

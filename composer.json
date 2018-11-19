@@ -1,0 +1,29 @@
+{
+  "name": "kkirsz/pimcore-extjs-examples",
+  "type": "pimcore-bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Korneliusz Kirsz",
+      "email": "kkirsz@divante.co",
+      "homepage": "https://divante.co/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "pimcore/pimcore": "^5.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "Divante\\ExtJSExamplesBundle\\": "src/"
+    }
+  },
+  "extra": {
+    "pimcore": {
+      "bundles": [
+        "Divante\\ExtJSExamplesBundle\\ExtJSExamplesBundle"
+      ]
+    }
+  }
+}
