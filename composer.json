@@ -16,13 +16,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Divante\\ExtJSExamplesBundle\\": "src/"
+      "KKirsz\\ExtJSExamplesBundle\\": "src/"
     }
   },
   "extra": {
     "pimcore": {
       "bundles": [
-        "Divante\\ExtJSExamplesBundle\\ExtJSExamplesBundle"
+        "KKirsz\\ExtJSExamplesBundle\\ExtJSExamplesBundle"
       ]
     }
   }
