@@ -48,7 +48,7 @@
                         "columnLength": 190,
                         "phpdocType": "string",
                         "regex": "",
-                        "unique": true,
+                        "unique": false,
                         "name": "sku",
                         "title": "SKU",
                         "tooltip": "",
