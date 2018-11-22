@@ -12,7 +12,8 @@
   ],
   "require": {
     "php": ">=7.1",
-    "pimcore/pimcore": "^5.5"
+    "pimcore/pimcore": "^5.5",
+    "fzaninotto/faker": "^1.8"
   },
   "autoload": {
     "psr-4": {
